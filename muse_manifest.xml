@@ -1,0 +1,46 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Xy_o.com" resolutions="1x" timestamp="1609206295867">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="452552313" ref="index:untitled-2"/>
+    <file name="index.css" crc="3918975920" ref="index"/>
+    <file name="untitled-2.css" crc="458533339" ref="untitled-2"/>
+  </folder>
+  <folder name="assets">
+    <file name="tumblr_nulalxssf11s4fz4bo1_500.gif" crc="394594724" seo="true" mt="1609204123000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="4232573551" ref="index:untitled-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:untitled-2"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:untitled-2"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:untitled-2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:untitled-2"/>
+    <file name="require.js" crc="4234670167" ref="index:untitled-2"/>
+  </folder>
+  <folder name="images">
+    <file name="u226-4.png" crc="272359704" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u255-4.png" crc="3878132042" ref="index"/>
+    <file name="089c2c0d0c8109200f3314112dea2cd5-crop-u306.jpg" crc="227791651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tumblr_505fa6c62768a67c599b9dd48a3f2ef6_73c209d2_500-crop-u316.jpg" crc="4170603903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0e81353483c312e50c3b889b1847bfd4.jpg" crc="4004179432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="51fbd37a1d6e7b6c9ab045727eeb5e57.jpg" crc="418897995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="83b6d121b7c9b421a613d0d536e36f60-crop-u377.jpg" crc="464561472" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7b5500b163a5c5fb1390a1aa52550ab6.jpg" crc="3978385621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3780320750" seo="true" mt="1609206068494" redirect="true"/>
+  <file name="untitled-2.html" crc="4112176070" seo="true" mt="1609206068494" redirect="true"/>
+</manifest>
